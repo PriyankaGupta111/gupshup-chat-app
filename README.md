@@ -8,7 +8,7 @@ The project is deployed on **Render**.
 ---
 
 ## 🚀 Live Demo
-🔗 https://priyanka-gupshup-chat-app.onrender.com
+🔗 https://priyanka-gupshup-chat-app-frontend.onrender.com
 
 ---
 
